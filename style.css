@@ -1,0 +1,23 @@
+*{
+    background-color: aliceblue;
+}
+
+img[alt="CINEMA NOS LOGO"]{
+    height: 70px;
+    width: 70px;
+}
+
+img[alt="BOSCH LOGO"]{
+    height: 70x;
+    width: 110px;
+}
+
+img[alt="PCDIGA LOGO"]{
+    height: 70px;
+    width: 80px;
+}
+
+img[alt="BRAGASOFT LOGO"]{
+    height: 60px;
+    width: 130px;
+}
